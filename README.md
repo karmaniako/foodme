@@ -3,11 +3,7 @@
 Simplified meal ordering app for local restaurants built with AngularJS
 and node.js backend.
 
-Check out this doc for more info about the app: http://goo.gl/Xa0Ea
-
-Also check out the commit history to see how the app was built piece by piece:
-
-https://github.com/IgorMinar/foodme/commits/master
+Complete rewrite for modern node and angular! I will add more later.
 
 ---
 
